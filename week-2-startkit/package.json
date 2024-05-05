@@ -1,0 +1,24 @@
+{
+  "name": "week-2-startkit",
+  "version": "1.0.0",
+  "description": "Rating of games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irene-Pesh-code/Rating-games.git"
+  },
+  "author": "Irene Pesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irene-Pesh-code/Rating-games/issues"
+  },
+  "homepage": "https://github.com/Irene-Pesh-code/Rating-games#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
